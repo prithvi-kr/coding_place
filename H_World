@@ -3,5 +3,5 @@
 #include<stdio.h>
 main(){
   printf("Hellp World...");
-  
+  getch();
 }
